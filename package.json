@@ -1,0 +1,17 @@
+{
+  "name": "express-preview",
+  "version": "1.0.0",
+  "description": "A simple node express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Jose Medrano",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
